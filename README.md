@@ -156,24 +156,6 @@ prediction = model.predict(input_data_reshaped)
 
 ---
 
-## 📈 Model Evaluation
-
-The model performance is evaluated using **Accuracy Score**.
-
-The project calculates:
-
-* Training Data Accuracy
-* Testing Data Accuracy
-
-You can add your actual results below:
-
-| Dataset       | Accuracy             |
-| ------------- | -------------------- |
-| Training Data | Add your result here |
-| Testing Data  | Add your result here |
-
----
-
 ## 💡 Key Concepts Learned
 
 Through this project, I learned and practiced:
